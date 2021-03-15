@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @osamakhan11 and I'm a Front-End Developer. I do UI designs and learning python from scratch to match the change in IT industry. 
+- 👀 I’m interested in UI Designs, web frameswork like django and flask.
+- 🌱 I’m currently learning python from scratch.
+- 💞️ I’m looking to collaborate on UI designs, Front-End and python projects.
+- 📫 How to reach me: You guys can reach me via email: usamakhan.uk14@gmail.com
